@@ -30,7 +30,7 @@ This project focuses on **frontend UI/UX** for Web3 applications using **dummy d
 
 ### Wallet Dashboard
 
-![Wallet Dashboard UI](public/screenshots/dashboard.png)
+![Screenshot](images/screenshot.png.PNG)
 
 ---
 
