@@ -30,7 +30,11 @@ This project focuses on **frontend UI/UX** for Web3 applications using **dummy d
 
 ### Wallet Dashboard
 
+HEAD
 ![Screenshot](images/screenshot.png.PNG)
+
+!![Screenshot](images/screenshot.png.PNG)
+019693f (feat: add MetaMask read-only wallet integration)
 
 ---
 
